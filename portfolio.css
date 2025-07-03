@@ -1,3 +1,18 @@
+.availability {
+  margin-top: 2rem;
+  background-color: #1a1a1a;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(216, 189, 198, 0.2);
+  font-size: 15px;
+  color: #ddd;
+  line-height: 1.6;
+}
+.availability strong {
+  color: #ff4081;
+}
+
+
 * {
       margin: 0;
       padding: 0;
